@@ -27,10 +27,10 @@ console.log(addS('bagel'));
 
 // Challenge 3
 function map(array, callback) {
-
+    return array.map(a => callback(a))
 }
 
-// console.log(map([1, 2, 3], addTwo));
+console.log(map([1, 2, 3], addTwo));
 
 
 // Challenge 4
