@@ -21,8 +21,8 @@ function addS(word) {
 }
 
 // uncomment these to check your work
-// console.log(addS('pizza'));
-// console.log(addS('bagel'));
+console.log(addS('pizza'));
+console.log(addS('bagel'));
 
 
 // Challenge 3
