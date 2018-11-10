@@ -35,11 +35,11 @@ console.log(map([1, 2, 3], addTwo));
 
 // Challenge 4
 function forEach(array, callback) {
-
+    return array.forEach(a => callback(a));
 }
 
 // see for yourself if your forEach works!
-
+console.log(forEach([2,3,4], addTwo));
 
 //--------------------------------------------------
 // Extension
