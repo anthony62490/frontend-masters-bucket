@@ -1,4 +1,8 @@
 Preprocessors:
 Sass is a preprocessor. It is an abstraction of CSS
 Sass, Less, and Stylus are also abstractions that compile to CSS
-Introduces variables to CSS
+Introduce variables to CSS
+Makes it easier to keep styles organized
+.SASS vs .SCSS
+	.scss format (Sassy CSS - More popular)
+	.sass format (Sass - Older standard, but still supported. Indent controlled. Not easily derived from standard CSS)
