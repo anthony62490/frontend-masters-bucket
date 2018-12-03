@@ -1,0 +1,21 @@
+.container {
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+  background: #EEEEEE;
+}
+
+.container .main {
+  margin-left: 220px;
+  min-height: 100vh;
+  border-left: 2px solid #333333;
+}
+
+.container .sidebar, .container .main {
+  padding: 10px;
+}
+
+.container .sidebar {
+  width: 200px;
+  float: left;;
+}
